@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sunil_ghanchi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunil_ghanchi_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sunil-ghanchi-07b0471b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-ghanchi-07b0471b5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sunil-ghanchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-ghanchi-07b0471b5" height="30" width="40" /></a>
 <a href="https://kaggle.com/sunilghanchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sunilghanchi" height="30" width="40" /></a>
 <a href="https://instagram.com/sunil.parihar14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunil.parihar14" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sunilghanchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sunilghanchi" height="30" width="40" /></a>
